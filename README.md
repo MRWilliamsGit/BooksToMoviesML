@@ -11,6 +11,7 @@ https://developer.nytimes.com
 Code Files:</br>
 IMDb Scraper Full.ipynb - script to create dataset of IMDb information</br>
 Library Thing Scraper Full.ipynb - script to create dataset of LibraryThing information</br>
+LIbrary_Thing_Cleanup.ipynb - scrip to clean Library thing files</br>
 Leo_final.ipynb - script to combine, clean, and model data
 
 Data Files:</br>
