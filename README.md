@@ -12,7 +12,7 @@ Code Files:</br>
 NYTBestsellersAPI_history.ipynb - script to run New York Times API to pull the Bestsellers list</br>
 IMDb_Scraper_Full.ipynb - script to create dataset of IMDb information</br>
 Library_Thing_Scraper_Full.ipynb - script to create dataset of LibraryThing information</br>
-Library_Thing_Cleanup.ipynb - scrip to clean Library thing files</br>
+Library_Thing_Cleanup.ipynb - script to clean Library thing files</br>
 Leo_final.ipynb - script to combine, clean, and model data
 
 Data Files:</br>
